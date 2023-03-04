@@ -1,0 +1,8 @@
+name: MercenariosCraft
+version: '${project.version}'
+main: mcr.mercenarioscraft.Main
+api-version: 1.19
+authors: [ Rogerio ]
+description: MCR Network Plugin
+commands:
+  curar:
